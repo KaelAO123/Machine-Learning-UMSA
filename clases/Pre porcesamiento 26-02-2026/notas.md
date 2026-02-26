@@ -94,20 +94,18 @@ con Grok 2 (Generación de Video)
 
 Video 1
 
-<video controls width="600">
-  <source src="videos/grok_video1.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/aeb5894f-53be-4996-8398-a6359fa31c75
 
 ##### Video 2
 
-<video controls width="600">
-  <source src="videos/grok_video2.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/a89bb870-ce5b-499a-89d0-ab98fc6ee992
 
 con RunwayML
 
 Plataforma utilizada:
 **Runway**
+
+https://github.com/user-attachments/assets/a4eee606-ebd2-4f9b-85c1-87fb2d143fa2
 
 ##### Video generado
 
