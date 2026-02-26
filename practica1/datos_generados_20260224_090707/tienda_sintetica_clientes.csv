@@ -1,0 +1,201 @@
+id_cliente,nombre_completo,email,telefono,edad,genero,direccion,ciudad,provincia,codigo_postal,fecha_registro,segmento,vip,activo
+1,Úrsula Parejo,úrsula.parejo@yahoo.com,+34879 03 91 17,47,M,Vial Georgina Talavera 924,Castellón,Murcia,50497,2024-02-15,Senior,False,True
+2,Luna Font,luna.font@hotmail.com,+34 916578713,37,M,Alameda Alfonso Grau 230,Ceuta,Asturias,03058,2024-07-12,Familia,False,True
+3,Rosalina Murillo,rosalina.murillo@gmail.com,+34983347382,49,F,Cuesta Noemí Ramírez 21 Puerta 6 ,Las Palmas,La Rioja,31606,2023-08-11,Senior,False,True
+4,Rosario Balaguer,rosario.balaguer@hotmail.com,+34825065133,62,Otro,Vial de Telmo Español 47,León,Zaragoza,37066,2024-08-27,Senior,False,True
+5,Clímaco Ayuso,clímaco.ayuso@hotmail.com,+34 988013267,36,F,C. Vanesa Barral 16 Piso 4 ,Girona,Las Palmas,46651,2025-03-11,Profesional,False,True
+6,Lupe Torrecilla,lupe.torrecilla@gmail.com,+34 871 43 09 80,36,M,Calle Daniela Tapia 182 Puerta 1 ,Asturias,Pontevedra,05453,2024-12-02,Familia,False,True
+7,Imelda Gutierrez,imelda.gutierrez@yahoo.com,+34 839 39 90 91,63,F,Callejón de Hernando Miralles 74 Apt. 47 ,Valladolid,Asturias,01610,2025-12-21,Senior,False,True
+8,Álvaro Cabo,álvaro.cabo@gmail.com,+34987384251,51,Otro,Cañada de Fausto Ríos 949,Sevilla,Navarra,20620,2024-12-19,Senior,False,True
+9,Gracia Calleja,gracia.calleja@gmail.com,+34 884 118 244,32,F,Glorieta de Jacinta Laguna 174,Santa Cruz de Tenerife,Las Palmas,19132,2023-05-09,Profesional,False,True
+10,Arsenio Acevedo,arsenio.acevedo@yahoo.com,+34 842427868,48,F,Avenida Sol Company 905,Las Palmas,Barcelona,03741,2025-05-15,Familia,False,True
+11,Mario Pastor,mario.pastor@gmail.com,+34 927 331 586,33,M,Rambla Nereida Elorza 30,Zamora,La Rioja,44903,2023-10-01,Familia,False,False
+12,Rosario Hurtado,rosario.hurtado@yahoo.com,+34 847160733,33,M,Cañada de Otilia Goñi 40 Piso 5 ,Asturias,Vizcaya,19292,2025-05-17,Profesional,True,True
+13,Pascual Vergara,pascual.vergara@yahoo.com,+34987 501 429,43,F,Via Débora Rovira 75 Puerta 8 ,Jaén,Ourense,13457,2025-04-17,Senior,False,True
+14,José Manuel Arregui,josé manuel.arregui@hotmail.com,+34 960 88 35 61,18,Otro,Via de Lola Mas 646 Piso 4 ,Cantabria,La Rioja,44576,2023-12-29,Joven,False,True
+15,Reynaldo Dávila,reynaldo.dávila@hotmail.com,+34 901 68 04 43,18,Otro,Pasaje de Vasco Salamanca 88 Puerta 2 ,Girona,Málaga,44506,2026-02-01,Joven,False,True
+16,Evita Naranjo,evita.naranjo@gmail.com,+34 879 433 200,31,F,Avenida de Xavier Ribas 836,Ciudad,Burgos,43995,2024-03-30,Profesional,False,True
+17,Javiera Adán,javiera.adán@gmail.com,+34949 328 708,24,Otro,Pasaje Eliseo Sobrino 689,Salamanca,Toledo,34081,2024-09-03,Estudiante,False,True
+18,Teodosio Salmerón,teodosio.salmerón@gmail.com,+34 977 743 487,44,M,Pasaje de Casemiro Macias 64,Murcia,Ávila,10068,2024-06-23,Senior,False,True
+19,Eutropio Guardia,eutropio.guardia@yahoo.com,+34 846 316 658,26,Otro,Calle de Hilario Rivera 19 Puerta 6 ,Álava,Huelva,20569,2025-03-31,Profesional,False,True
+20,Marisa Porta,marisa.porta@yahoo.com,+34987 89 37 34,18,F,Plaza de Roque Navarrete 82 Apt. 98 ,La Coruña,Palencia,37987,2024-05-02,Joven,False,True
+21,Gloria Amores,gloria.amores@gmail.com,+34 952 720 465,61,M,Alameda de Nicolás Pinilla 56,Lugo,Albacete,50088,2024-06-05,Senior,False,True
+22,Calista Azorin,calista.azorin@yahoo.com,+34 877100330,36,M,Vial Ainara Carbó 537,Cáceres,Pontevedra,40796,2025-09-16,Profesional,False,False
+23,Mariana Carbó,mariana.carbó@gmail.com,+34 911 904 966,41,F,Camino Jessica Herrero 5,Zamora,Ourense,03691,2023-03-02,Senior,False,True
+24,Ovidio Romero,ovidio.romero@hotmail.com,+34 931850671,18,F,Pasaje de Laura Coronado 92 Puerta 4 ,Lleida,Las Palmas,48908,2025-03-23,Joven,False,False
+25,Dora Ledesma,dora.ledesma@yahoo.com,+34880 14 73 79,31,Otro,Plaza de Ana Belén Morcillo 47 Piso 4 ,Cuenca,Pontevedra,46952,2025-01-09,Familia,False,True
+26,Silvia Llorente,silvia.llorente@hotmail.com,+34708313678,41,M,Cuesta de Victorino Alemany 5,La Coruña,Tarragona,16945,2023-09-11,Senior,False,True
+27,Mariano Peinado,mariano.peinado@yahoo.com,+34986 568 557,22,Otro,Callejón de Jerónimo Carrillo 25 Puerta 8 ,Cantabria,Castellón,49405,2024-04-03,Joven,False,True
+28,Alondra Lloret,alondra.lloret@hotmail.com,+34985 941 343,45,M,Cañada Alberto Castañeda 10 Puerta 4 ,Santa Cruz de Tenerife,Valladolid,33170,2025-10-02,Senior,True,True
+29,Cristian Alberola,cristian.alberola@hotmail.com,+34887 777 520,30,Otro,Via de Paca Bas 27 Puerta 0 ,Burgos,Zaragoza,37886,2024-04-19,Profesional,False,True
+30,Marco Blázquez,marco.blázquez@gmail.com,+34 838699938,35,Otro,Pasaje de Manuel Romeu 19 Puerta 1 ,Santa Cruz de Tenerife,Castellón,18343,2025-05-30,Familia,False,True
+31,Gertrudis Bertrán,gertrudis.bertrán@gmail.com,+34879 28 12 06,30,M,Cañada de Anacleto Guardiola 84 Apt. 34 ,Las Palmas,Baleares,36688,2023-07-02,Familia,False,True
+32,Jafet Company,jafet.company@yahoo.com,+34 844102499,67,F,Via de Adelina Mateu 94 Puerta 7 ,Ávila,Pontevedra,03612,2024-03-01,Senior,False,True
+33,Tamara Rosales,tamara.rosales@hotmail.com,+34 921 940 139,39,M,Camino de Apolinar Díez 88,Cádiz,Palencia,29566,2025-11-06,Familia,False,True
+34,Fabiola Téllez,fabiola.téllez@gmail.com,+34 976565512,24,M,Cuesta de Luis Pérez 207 Piso 4 ,Baleares,Vizcaya,27488,2024-04-01,Estudiante,False,True
+35,Rosaura Vilar,rosaura.vilar@gmail.com,+34988 760 385,52,F,Calle de Herminio Lasa 824 Puerta 7 ,Albacete,Santa Cruz de Tenerife,40903,2023-08-21,Familia,False,True
+36,Nerea Heras,nerea.heras@hotmail.com,+34 847 480 861,21,Otro,Pasaje Desiderio Correa 94,La Rioja,Lugo,31947,2025-09-23,Joven,False,True
+37,Jose Francisco Saura,jose francisco.saura@hotmail.com,+34844639821,43,M,Alameda de Mirta Vera 50 Puerta 4 ,Burgos,León,36296,2026-01-25,Senior,False,True
+38,Alondra Ochoa,alondra.ochoa@yahoo.com,+34988675339,18,M,Ronda Armando Monreal 76 Puerta 2 ,Alicante,Barcelona,33918,2023-06-06,Joven,False,True
+39,Dominga Mármol,dominga.mármol@gmail.com,+34 971 187 026,20,F,Cuesta Merche Landa 79,Guipúzcoa,Soria,35971,2026-02-20,Estudiante,False,True
+40,Ricardo Moliner,ricardo.moliner@hotmail.com,+34 979809134,42,M,Ronda Clímaco Cabrera 52,Alicante,Guadalajara,04677,2023-06-04,Familia,False,True
+41,Lázaro Palmer,lázaro.palmer@yahoo.com,+34952 386 922,51,Otro,C. Estefanía Hernando 39,Lleida,Santa Cruz de Tenerife,17644,2025-10-23,Senior,True,True
+42,Ángel Jara,ángel.jara@hotmail.com,+34707 482 175,42,M,Callejón de Yago Matas 86 Apt. 36 ,Ourense,Girona,46827,2023-03-05,Familia,False,True
+43,Manolo Almeida,manolo.almeida@hotmail.com,+34944 409 097,38,M,Acceso Isidoro Falcón 242 Puerta 0 ,Zamora,León,03186,2025-10-07,Profesional,False,True
+44,Cruz Patiño,cruz.patiño@hotmail.com,+34 842 14 56 23,35,M,Pasadizo de Angélica Llamas 84,Valencia,Guipúzcoa,08547,2024-10-08,Profesional,True,True
+45,Adelina Benet,adelina.benet@gmail.com,+34877 685 160,18,Otro,Pasaje Rafa Juárez 265 Puerta 3 ,Albacete,Salamanca,37792,2023-03-22,Joven,False,True
+46,Nacio Giralt,nacio.giralt@hotmail.com,+34817461200,29,Otro,Via de Cleto Guitart 826 Piso 8 ,Palencia,Valencia,48618,2024-10-24,Profesional,False,True
+47,Fabián Ribera,fabián.ribera@hotmail.com,+34825 79 64 05,33,M,Pasaje de Jonatan Pareja 6,Almería,La Coruña,19080,2024-05-18,Familia,False,True
+48,Goyo Carvajal,goyo.carvajal@yahoo.com,+34824 390 053,55,F,Avenida Paula Galan 633,Zamora,Pontevedra,01185,2025-08-04,Familia,False,True
+49,Leonel Coca,leonel.coca@gmail.com,+34 988421020,45,F,Camino Moisés Alcázar 14 Apt. 68 ,Valencia,Asturias,32211,2024-03-12,Senior,False,True
+50,Vidal Paredes,vidal.paredes@hotmail.com,+34827 783 908,18,Otro,Plaza de Benjamín Tejero 26 Piso 7 ,Ávila,Guadalajara,40865,2023-09-11,Estudiante,False,False
+51,Eusebio Bastida,eusebio.bastida@gmail.com,+34885 99 85 69,44,F,Pasadizo de Elodia Ros 2 Puerta 8 ,Las Palmas,León,15974,2023-03-09,Familia,False,True
+52,Severiano Nicolau,severiano.nicolau@yahoo.com,+34 945 615 654,34,M,Cuesta Bonifacio Bou 2 Piso 1 ,Zaragoza,Barcelona,37462,2025-07-27,Familia,False,True
+53,Benito Murcia,benito.murcia@hotmail.com,+34836 56 04 94,29,Otro,Camino Anunciación Garcia 47 Apt. 58 ,Baleares,Valladolid,19256,2025-04-12,Profesional,False,True
+54,Consuela Gonzalo,consuela.gonzalo@yahoo.com,+34 739 40 24 45,49,M,Rambla Ruth Clemente 361 Puerta 0 ,Valencia,Melilla,15098,2024-09-02,Senior,False,True
+55,Renato Rivas,renato.rivas@yahoo.com,+34 924254599,55,F,Vial Fausto Ayala 5,Sevilla,Las Palmas,32828,2023-10-11,Senior,True,True
+56,Elvira Salamanca,elvira.salamanca@yahoo.com,+34885 381 561,53,Otro,Pasadizo de Guadalupe Mendez 4 Piso 9 ,Álava,Castellón,20753,2024-09-06,Familia,False,True
+57,Héctor Cervantes,héctor.cervantes@yahoo.com,+34 888 51 07 62,27,Otro,Paseo de Juliana Grau 285,Valencia,Alicante,29588,2026-02-05,Profesional,False,True
+58,Alejo Segura,alejo.segura@gmail.com,+34 919 69 66 41,35,M,Alameda Francisco Javier Seguí 71 Apt. 36 ,Melilla,Ávila,26936,2025-12-13,Familia,False,True
+59,Sabina Menéndez,sabina.menéndez@hotmail.com,+34923 35 21 81,44,M,Acceso de Lucía Coloma 31,Cantabria,Cádiz,40478,2025-12-01,Familia,False,True
+60,Ezequiel Benet,ezequiel.benet@gmail.com,+34 980799799,54,F,Vial de Valerio Bayo 57 Piso 9 ,Huelva,Málaga,05862,2024-12-21,Senior,False,True
+61,Martín Serrano,martín.serrano@yahoo.com,+34 800 05 41 19,32,M,Camino de Casandra Armengol 49 Piso 9 ,Málaga,Burgos,05054,2023-11-15,Familia,False,True
+62,Virgilio Calderón,virgilio.calderón@yahoo.com,+34 823 82 03 77,37,Otro,Acceso de Yéssica Luna 66,Zamora,Santa Cruz de Tenerife,43421,2025-02-27,Familia,True,True
+63,Nicanor Bastida,nicanor.bastida@yahoo.com,+34 825 864 492,23,M,Camino Gracia Cid 74 Apt. 91 ,Navarra,Jaén,43171,2023-11-04,Estudiante,False,True
+64,Máxima Moya,máxima.moya@gmail.com,+34985 16 85 05,22,F,Glorieta Néstor Torre 33 Apt. 14 ,Málaga,Vizcaya,36374,2025-07-18,Joven,True,True
+65,Petrona Zurita,petrona.zurita@gmail.com,+34 923 92 96 22,52,M,Pasaje Armando Reig 83,Valladolid,Valencia,30420,2023-07-28,Familia,False,True
+66,Joaquín Haro,joaquín.haro@yahoo.com,+34 976 359 774,60,F,Rambla de Olga Flores 124 Puerta 7 ,Navarra,Badajoz,47622,2025-01-25,Senior,False,True
+67,Raquel Villalobos,raquel.villalobos@gmail.com,+34887 124 782,38,Otro,Urbanización Olga Sanmartín 70 Apt. 68 ,Ciudad,Jaén,06348,2024-08-02,Profesional,False,False
+68,Reinaldo Gomez,reinaldo.gomez@gmail.com,+34 920 15 22 04,55,F,Cuesta Vidal Adadia 1 Piso 3 ,Navarra,Toledo,40903,2024-04-17,Senior,False,True
+69,Belén Rocha,belén.rocha@gmail.com,+34 888341036,45,F,Via Piedad Valero 980 Puerta 3 ,Girona,Las Palmas,01102,2024-08-30,Familia,False,True
+70,Encarnacion Osorio,encarnacion.osorio@gmail.com,+34 948 218 518,30,M,Cuesta de Armando Pombo 14,Zamora,Asturias,23596,2024-05-23,Profesional,False,True
+71,Jose Angel Calleja,jose angel.calleja@hotmail.com,+34922205852,45,M,Rambla de Obdulia Cepeda 8 Apt. 43 ,Zamora,Cantabria,03746,2025-01-31,Familia,False,True
+72,Maximiano Menéndez,maximiano.menéndez@hotmail.com,+34944 87 40 34,63,M,Alameda Leandro Casanova 76 Puerta 7 ,Guipúzcoa,Cádiz,33519,2025-01-17,Senior,False,True
+73,Jesusa Valencia,jesusa.valencia@yahoo.com,+34984 416 169,39,M,Alameda de Cristian Bernal 54,Pontevedra,Teruel,28925,2024-04-19,Familia,False,True
+74,Flavio Saldaña,flavio.saldaña@yahoo.com,+34 972059640,63,Otro,Acceso de Armida Cuesta 3,Alicante,Barcelona,05406,2024-06-19,Senior,False,True
+75,Jonatan Pazos,jonatan.pazos@yahoo.com,+34 942 90 92 75,18,M,Avenida de Consuela Cervantes 656 Puerta 4 ,Baleares,Albacete,49213,2023-11-23,Joven,False,True
+76,Gilberto Valera,gilberto.valera@hotmail.com,+34 943 814 473,52,Otro,Glorieta de Donato Cerdá 8 Apt. 71 ,Sevilla,Huelva,47500,2024-01-10,Senior,False,True
+77,Berto Manrique,berto.manrique@yahoo.com,+34846 25 83 13,41,F,Cuesta Amancio Paniagua 895,Salamanca,Ávila,05308,2023-11-16,Senior,True,True
+78,Martin Puig,martin.puig@hotmail.com,+34977866912,35,M,Pasaje Adelaida Villar 92 Puerta 9 ,Vizcaya,Barcelona,29352,2024-05-06,Profesional,False,True
+79,Ani Baquero,ani.baquero@gmail.com,+34 984 24 22 53,41,Otro,Avenida de Josué Ferrándiz 542 Puerta 8 ,Málaga,Segovia,12051,2025-03-14,Senior,False,True
+80,Dora Correa,dora.correa@gmail.com,+34923 900 109,18,M,Camino Sigfrido Anglada 58 Puerta 4 ,Ciudad,Zaragoza,45891,2024-04-09,Joven,False,True
+81,Santiago Martorell,santiago.martorell@yahoo.com,+34 821 02 76 77,36,M,Vial de Matías Montaña 36,Málaga,Navarra,07958,2024-11-21,Familia,False,True
+82,Melchor Herranz,melchor.herranz@yahoo.com,+34834 73 21 04,45,F,Urbanización de Rosenda Cuesta 69 Apt. 27 ,Madrid,Granada,33595,2023-06-27,Senior,False,True
+83,Alonso Bosch,alonso.bosch@yahoo.com,+34 982733950,62,F,Cuesta de Edelmira Sosa 18,Las Palmas,Barcelona,18332,2025-01-22,Senior,False,True
+84,Lucía Paz,lucía.paz@yahoo.com,+34 928 06 09 83,32,M,Avenida de Rolando Varela 58 Puerta 9 ,Barcelona,Badajoz,26814,2024-10-13,Profesional,False,True
+85,Raúl Nicolau,raúl.nicolau@hotmail.com,+34 928 23 98 68,27,Otro,Calle Emigdio Mínguez 88,Pontevedra,Málaga,10160,2024-12-03,Profesional,False,True
+86,Nacio Montalbán,nacio.montalbán@gmail.com,+34 944 949 588,32,M,Cuesta de Olalla Alegria 25 Piso 9 ,Zamora,Toledo,46091,2024-10-02,Familia,False,True
+87,Eva Amor,eva.amor@hotmail.com,+34976 49 93 09,53,F,Pasadizo Eva Pinto 13 Puerta 1 ,Albacete,León,21558,2023-03-05,Senior,False,True
+88,Silvio Cordero,silvio.cordero@yahoo.com,+34873689702,44,F,Cuesta de Begoña Peñas 82,Murcia,Huelva,45293,2023-04-28,Familia,False,True
+89,María Pilar Lamas,maría pilar.lamas@hotmail.com,+34978 334 843,32,Otro,Glorieta de Jenny Torrijos 67 Puerta 4 ,Baleares,Ourense,45343,2023-06-28,Profesional,False,True
+90,Candelaria Pino,candelaria.pino@yahoo.com,+34924 24 04 15,47,F,Cuesta de Iker Franch 548 Apt. 19 ,Ciudad,Almería,44898,2023-03-25,Familia,False,True
+91,Verónica Gonzalez,verónica.gonzalez@hotmail.com,+34878016571,41,Otro,Paseo Úrsula Cruz 87,Valladolid,Girona,22048,2024-07-19,Familia,False,True
+92,Lucho Barranco,lucho.barranco@gmail.com,+34878 802 620,54,Otro,Rambla de Marianela Mancebo 1 Piso 9 ,Guipúzcoa,Girona,30776,2025-04-22,Familia,False,True
+93,Felipa Zamora,felipa.zamora@yahoo.com,+34842 87 43 15,29,F,Callejón de Lina Estrada 6,Ourense,Soria,50629,2023-10-29,Profesional,False,True
+94,Guadalupe Echevarría,guadalupe.echevarría@hotmail.com,+34 946685161,35,Otro,Cuesta Moisés Hurtado 5,Ciudad,León,50398,2023-10-18,Profesional,False,True
+95,Juanito Murcia,juanito.murcia@yahoo.com,+34704 53 01 74,34,F,Pasadizo de Águeda Mercader 5,Salamanca,Ceuta,15360,2024-01-07,Profesional,False,True
+96,Eliseo Tejera,eliseo.tejera@gmail.com,+34973 956 878,18,Otro,Avenida Begoña Salom 251,Navarra,Málaga,14248,2023-10-20,Joven,False,True
+97,Constanza Conde,constanza.conde@gmail.com,+34921 87 13 97,44,M,Calle de Wilfredo Catalán 167,Soria,Zaragoza,21196,2023-06-01,Familia,False,True
+98,Loreto Almeida,loreto.almeida@yahoo.com,+34 882 03 91 06,43,M,Paseo Benito Bayón 50 Piso 2 ,Vizcaya,Segovia,48794,2023-11-19,Senior,False,False
+99,Flavia Rivera,flavia.rivera@yahoo.com,+34 942766182,40,Otro,Rambla Brígida Pozo 123 Apt. 47 ,Murcia,Jaén,16051,2023-02-27,Familia,False,True
+100,Jose Miguel Serna,jose miguel.serna@yahoo.com,+34 846 43 10 69,36,F,Glorieta Bonifacio Cabrero 107,Valencia,Alicante,27362,2025-09-06,Familia,False,True
+101,Valentín Guillén,valentín.guillén@hotmail.com,+34 876 028 439,18,F,Urbanización de Marciano Clemente 536 Piso 0 ,Santa Cruz de Tenerife,Soria,28997,2024-09-10,Joven,False,True
+102,Cayetana Valcárcel,cayetana.valcárcel@gmail.com,+34924685662,33,F,Rambla de Marisela Sáenz 53 Puerta 2 ,Almería,Navarra,28045,2024-01-10,Profesional,False,True
+103,Sigfrido Cañete,sigfrido.cañete@yahoo.com,+34 880 43 51 75,34,M,Calle Julio Pi 290,Zaragoza,Valladolid,39507,2025-09-10,Profesional,False,False
+104,Lourdes Gaya,lourdes.gaya@yahoo.com,+34874 540 331,27,Otro,Glorieta Régulo Heras 754 Piso 8 ,Granada,Córdoba,24569,2024-03-10,Profesional,True,True
+105,Armida Valencia,armida.valencia@yahoo.com,+34825753556,37,M,Vial Alcides Julián 799,Burgos,Cantabria,22618,2025-12-23,Familia,False,True
+106,Jeremías Pino,jeremías.pino@hotmail.com,+34880 78 54 77,46,Otro,Acceso Fortunato Chaves 972 Puerta 0 ,Asturias,Sevilla,04179,2024-10-24,Familia,False,True
+107,María Cristina Agudo,maría cristina.agudo@yahoo.com,+34 843 31 20 38,68,F,Calle de Esmeralda Tomas 10 Puerta 8 ,Álava,Albacete,35695,2023-07-18,Senior,False,True
+108,Lorenza Llobet,lorenza.llobet@hotmail.com,+34887 08 62 11,42,F,Glorieta Estefanía Zurita 55,Ávila,Huesca,27609,2025-07-05,Senior,False,True
+109,Ángel Hervia,ángel.hervia@hotmail.com,+34877 410 166,43,F,Calle de Febe Agustí 81 Piso 5 ,Melilla,Alicante,16057,2026-01-03,Senior,False,True
+110,Héctor Talavera,héctor.talavera@yahoo.com,+34803 14 89 02,38,Otro,Glorieta Diana Cobos 51 Apt. 93 ,Soria,Murcia,22740,2025-01-14,Profesional,False,True
+111,Rodrigo Chaves,rodrigo.chaves@hotmail.com,+34 822 85 01 63,18,M,C. de María Ángeles Morera 5,Madrid,Ceuta,24318,2024-06-17,Estudiante,False,True
+112,Carolina Perez,carolina.perez@yahoo.com,+34869619431,39,F,Vial de Ricardo Correa 65,Ávila,Álava,21202,2025-12-02,Profesional,False,True
+113,Victor Palomino,victor.palomino@yahoo.com,+34 826 21 26 78,40,F,Plaza Chuy Otero 619 Piso 0 ,La Rioja,Jaén,52063,2024-03-28,Familia,False,True
+114,Cesar Herrero,cesar.herrero@hotmail.com,+34984 26 22 44,76,F,Vial de Bernardino Diego 74 Piso 7 ,Huesca,Córdoba,17160,2024-02-14,Senior,False,True
+115,Lorena Valcárcel,lorena.valcárcel@hotmail.com,+34 872 71 24 06,37,Otro,Alameda de Valerio Nadal 39 Piso 5 ,Lugo,Guadalajara,12641,2023-09-17,Profesional,False,True
+116,Rómulo Montaña,rómulo.montaña@yahoo.com,+34979935646,44,Otro,Camino Heraclio Escolano 407 Piso 4 ,Zamora,Zamora,27813,2023-06-10,Familia,False,True
+117,Ignacia Valera,ignacia.valera@gmail.com,+34901342661,39,F,Camino de Salvador Velázquez 18 Piso 8 ,Badajoz,Vizcaya,17268,2024-10-10,Familia,True,True
+118,Gema Padilla,gema.padilla@gmail.com,+34803 965 610,22,F,Urbanización de Arcelia Villena 499,Huesca,La Coruña,31347,2023-07-19,Joven,False,True
+119,María Pilar Vall,maría pilar.vall@gmail.com,+34924 07 14 61,57,F,Acceso Mateo Novoa 93,Huelva,Lugo,07397,2024-04-30,Familia,False,True
+120,Urbano Santamaria,urbano.santamaria@yahoo.com,+34 820 40 10 51,51,M,Pasadizo Félix Cuesta 78,Ceuta,Zaragoza,27545,2024-08-08,Senior,False,True
+121,Eva Espinosa,eva.espinosa@gmail.com,+34956093796,51,Otro,Glorieta Hernán Lopez 2 Puerta 2 ,Guadalajara,Cantabria,30986,2023-11-15,Familia,False,True
+122,Danilo Jáuregui,danilo.jáuregui@hotmail.com,+34979 859 696,26,F,Acceso de Ramona Seco 224,Guadalajara,Baleares,16635,2023-05-26,Profesional,True,True
+123,Marcos Caro,marcos.caro@gmail.com,+34932866929,61,Otro,Rambla de Amanda Duran 527 Apt. 25 ,Salamanca,Almería,24529,2024-10-14,Senior,False,True
+124,Agapito Tormo,agapito.tormo@gmail.com,+34 872688767,18,Otro,Cuesta de Florencio Blanch 503 Apt. 43 ,Cáceres,Vizcaya,30971,2023-03-05,Joven,False,True
+125,Clarisa Valbuena,clarisa.valbuena@hotmail.com,+34 983191485,48,M,Paseo de Isaías Rodríguez 4,Alicante,León,18223,2023-08-10,Familia,False,True
+126,Pablo Bonet,pablo.bonet@yahoo.com,+34 833 395 962,72,Otro,Glorieta Noa Barranco 558,Guadalajara,Teruel,20178,2024-05-19,Senior,False,False
+127,Luis Miguel Lastra,luis miguel.lastra@hotmail.com,+34 825260422,25,F,Alameda Patricia Huertas 37,Santa Cruz de Tenerife,La Rioja,25587,2025-02-10,Profesional,False,True
+128,Vito Benet,vito.benet@hotmail.com,+34824 68 45 77,31,M,Avenida Lupe Sedano 91 Piso 3 ,Castellón,Madrid,18598,2023-03-18,Profesional,False,True
+129,Mohamed Luque,mohamed.luque@yahoo.com,+34 842975001,41,Otro,Via Úrsula Cruz 17 Piso 3 ,Segovia,Granada,11418,2024-02-16,Familia,True,True
+130,Sandra Lledó,sandra.lledó@gmail.com,+34927 415 206,32,Otro,Ronda Gabriela Bou 1 Apt. 71 ,Palencia,Ceuta,35042,2025-11-23,Familia,False,True
+131,Irma Salgado,irma.salgado@gmail.com,+34 705 16 27 13,18,F,Via Cristian Millán 34 Piso 2 ,Asturias,Melilla,37915,2023-05-26,Joven,True,True
+132,Adán Córdoba,adán.córdoba@yahoo.com,+34925 32 69 73,41,F,Vial Marina Casal 765,Zamora,Barcelona,17238,2023-09-06,Familia,False,True
+133,Leonel Blasco,leonel.blasco@gmail.com,+34887 043 898,24,F,Cañada de Flavia Ballester 77,Ciudad,Madrid,42817,2023-06-22,Joven,True,True
+134,Dorotea Belda,dorotea.belda@hotmail.com,+34 715 526 965,47,F,Avenida de Ale Bauzà 5,Alicante,Almería,27081,2025-11-07,Familia,False,True
+135,Antonia Macías,antonia.macías@hotmail.com,+34981 666 188,26,Otro,Avenida de Martín Bermúdez 932,La Coruña,Palencia,42569,2024-10-04,Profesional,False,True
+136,María Carmen Batalla,maría carmen.batalla@yahoo.com,+34963 031 617,63,F,Rambla de Dimas Alberola 30,Huelva,Melilla,34896,2024-11-19,Senior,False,True
+137,Micaela Jove,micaela.jove@gmail.com,+34 932 41 05 64,28,F,Camino de Eulalia Benítez 97,Almería,Madrid,38151,2023-09-02,Profesional,False,True
+138,Flavio Pedro,flavio.pedro@gmail.com,+34882 191 380,35,M,Urbanización Arturo Suarez 36,Alicante,Navarra,47794,2025-10-24,Familia,False,True
+139,Manu Rius,manu.rius@gmail.com,+34920 36 54 19,52,M,Pasadizo Ignacia Badía 93 Apt. 61 ,Girona,Vizcaya,21361,2024-09-01,Senior,False,True
+140,Nacio Boix,nacio.boix@hotmail.com,+34973 05 34 94,21,Otro,Acceso de Domitila Uriarte 48,Álava,La Rioja,02566,2025-04-10,Joven,False,True
+141,Joan Olivares,joan.olivares@hotmail.com,+34705 064 138,43,Otro,Cuesta de Benito Cisneros 11,Melilla,La Rioja,46930,2025-12-20,Familia,False,True
+142,Teresita Perales,teresita.perales@yahoo.com,+34 823 91 82 61,59,Otro,Vial de Jordi Manzanares 75,Guadalajara,León,18822,2025-10-02,Senior,False,True
+143,Joaquín Benavente,joaquín.benavente@gmail.com,+34 843912127,18,Otro,Ronda de Dionisio Palma 57 Piso 4 ,Ávila,Cáceres,45961,2025-01-15,Joven,False,True
+144,Marco Arjona,marco.arjona@gmail.com,+34921 21 35 68,42,M,Callejón de Oriana Dávila 7,Navarra,Valencia,37052,2024-08-29,Senior,True,True
+145,Josep Busquets,josep.busquets@yahoo.com,+34 826 21 00 32,43,F,Acceso de Itziar Blasco 294,Asturias,Cantabria,43335,2024-07-13,Familia,False,True
+146,Vicente Castells,vicente.castells@gmail.com,+34922 107 029,51,M,Cuesta de Amor Piñeiro 62 Apt. 24 ,León,Burgos,03270,2024-08-16,Senior,False,True
+147,Encarna Hoyos,encarna.hoyos@hotmail.com,+34 900 76 87 01,21,M,Vial de Simón Flores 138 Piso 5 ,Murcia,Zamora,32763,2023-09-24,Estudiante,False,True
+148,Omar Vallés,omar.vallés@yahoo.com,+34 943420593,20,F,Calle de Nydia Suarez 459,Badajoz,Ciudad,44048,2026-01-13,Estudiante,False,True
+149,Jose Angel Larrea,jose angel.larrea@hotmail.com,+34807 396 522,47,F,Acceso de Xiomara Anaya 39,Zaragoza,Madrid,36528,2025-03-03,Familia,False,True
+150,Martin Echevarría,martin.echevarría@yahoo.com,+34 800 10 39 30,44,M,Alameda Yéssica Fortuny 35 Piso 0 ,Burgos,Palencia,47182,2023-09-16,Senior,False,True
+151,Yéssica Cifuentes,yéssica.cifuentes@gmail.com,+34985515691,43,M,Alameda de Elías Criado 67 Apt. 89 ,Ceuta,Sevilla,39597,2023-11-11,Familia,False,True
+152,Ofelia Echevarría,ofelia.echevarría@yahoo.com,+34 902 42 20 96,45,Otro,Alameda África Giner 317,Valencia,Asturias,16597,2023-05-17,Familia,False,True
+153,Ovidio Montenegro,ovidio.montenegro@gmail.com,+34 824 570 433,29,F,Callejón de Miriam Campoy 1,León,Toledo,28502,2025-08-28,Profesional,False,True
+154,Flavio Riba,flavio.riba@yahoo.com,+34941 586 179,43,F,Pasaje Candelario Aragonés 60,Badajoz,Asturias,23400,2026-02-22,Senior,False,True
+155,Francisco Perez,francisco.perez@gmail.com,+34821815997,44,Otro,Rambla de Elvira Rovira 20,Castellón,Cantabria,27822,2023-03-31,Familia,False,True
+156,Josefina Lara,josefina.lara@hotmail.com,+34 887 431 069,29,F,Calle Poncio Acevedo 51 Puerta 9 ,Cantabria,Badajoz,02686,2025-11-11,Profesional,False,True
+157,Hilario Donaire,hilario.donaire@hotmail.com,+34888171467,67,Otro,Avenida de Felisa Ponce 75 Piso 2 ,Alicante,Córdoba,29818,2023-06-08,Senior,False,True
+158,Adela Lago,adela.lago@gmail.com,+34884 90 21 15,47,M,Paseo Benjamín Pombo 868 Puerta 3 ,Granada,Ávila,26873,2024-10-22,Senior,False,True
+159,Vanesa Arana,vanesa.arana@hotmail.com,+34 984992172,22,M,Glorieta Edmundo Arnau 71,Santa Cruz de Tenerife,Burgos,39997,2025-08-18,Joven,False,True
+160,Juan Montenegro,juan.montenegro@hotmail.com,+34 820 16 86 85,49,Otro,Plaza de Miriam Yáñez 71 Apt. 29 ,Badajoz,Ourense,52088,2025-06-29,Senior,False,True
+161,Cosme Macias,cosme.macias@hotmail.com,+34924646799,25,F,Rambla Leoncio Quintana 79 Apt. 65 ,Almería,Valencia,32143,2024-08-14,Profesional,False,True
+162,Zoraida Leiva,zoraida.leiva@yahoo.com,+34 725 44 47 13,51,Otro,Pasaje de María Ángeles Montesinos 26,León,Castellón,27684,2025-05-04,Familia,False,True
+163,Manu Tormo,manu.tormo@hotmail.com,+34930821486,57,F,Rambla Guadalupe Font 4,Lleida,Almería,24617,2025-05-21,Senior,False,True
+164,Julie Flor,julie.flor@yahoo.com,+34928 78 61 03,27,Otro,Pasaje de Galo Sánchez 685 Apt. 41 ,Albacete,Jaén,04253,2023-04-22,Profesional,True,True
+165,Fermín Gargallo,fermín.gargallo@gmail.com,+34 877 34 68 00,54,F,Rambla Eliana Aguirre 54 Puerta 4 ,Jaén,Huelva,31080,2023-05-29,Senior,False,True
+166,José Antonio Gibert,josé antonio.gibert@yahoo.com,+34901 896 910,46,M,Cañada de Isaura Campoy 61 Piso 5 ,Córdoba,Segovia,47602,2024-01-14,Familia,False,False
+167,Tecla Martín,tecla.martín@gmail.com,+34845 830 965,52,F,Cuesta Manolo Jover 76,Palencia,Teruel,38489,2024-10-23,Senior,False,True
+168,Olalla Falcó,olalla.falcó@yahoo.com,+34876 87 58 42,68,F,Via de Adriana Castellanos 38,Segovia,Ávila,15565,2023-07-02,Senior,False,True
+169,Pedro Godoy,pedro.godoy@hotmail.com,+34 902 65 54 94,36,Otro,Cuesta Balduino Belda 93 Apt. 68 ,La Rioja,Almería,10881,2025-04-19,Profesional,True,False
+170,Emigdio Fonseca,emigdio.fonseca@yahoo.com,+34946 97 25 21,28,F,Rambla de Matías Barco 8 Piso 3 ,Ourense,Valladolid,11383,2024-04-16,Familia,False,True
+171,Amelia Borja,amelia.borja@gmail.com,+34 966 667 600,26,Otro,Plaza de Tecla Montserrat 130,Ceuta,Tarragona,23567,2023-08-04,Profesional,False,False
+172,Mateo Castelló,mateo.castelló@gmail.com,+34 942 89 42 10,27,F,Pasaje de Luisa Viña 785 Puerta 2 ,Madrid,Huelva,50159,2025-09-24,Profesional,False,True
+173,Godofredo Cózar,godofredo.cózar@yahoo.com,+34 723323098,38,Otro,Acceso Leonor Arcos 94,Pontevedra,Almería,44382,2023-12-03,Familia,False,True
+174,Cándido Aller,cándido.aller@gmail.com,+34828676184,45,F,Glorieta Jordana Agustí 26 Puerta 8 ,Salamanca,Pontevedra,46922,2024-01-08,Senior,False,True
+175,Emigdio Riquelme,emigdio.riquelme@gmail.com,+34 983914117,44,Otro,Callejón Paz Zabala 75,Cáceres,Alicante,36922,2025-12-13,Senior,False,True
+176,Anabel Galiano,anabel.galiano@hotmail.com,+34 978 530 011,52,M,Avenida Melisa Vidal 2 Piso 3 ,Girona,Córdoba,31426,2024-11-16,Senior,False,True
+177,Aureliano Cabo,aureliano.cabo@gmail.com,+34800455611,40,M,Vial Gracia Donaire 85,Toledo,Ávila,25420,2025-08-03,Familia,False,True
+178,Ofelia Noriega,ofelia.noriega@gmail.com,+34 828 66 74 67,61,F,Via Eligio Barral 71 Puerta 7 ,Cádiz,Salamanca,25887,2025-11-02,Senior,False,True
+179,Melania Palmer,melania.palmer@hotmail.com,+34732 77 16 70,36,M,Alameda de Albano Zamorano 693,Las Palmas,Sevilla,48621,2024-10-12,Profesional,False,True
+180,Jose Ramón Tirado,jose ramón.tirado@yahoo.com,+34942289002,80,F,Rambla de Carlito Tur 63 Piso 0 ,Navarra,Segovia,25814,2025-09-16,Senior,False,True
+181,Samuel Gutierrez,samuel.gutierrez@gmail.com,+34 974 79 71 77,49,M,Cuesta Marcia Alemán 7 Piso 0 ,Ávila,Zamora,40597,2024-10-19,Familia,False,True
+182,Esperanza Mayo,esperanza.mayo@hotmail.com,+34 874755037,27,F,Acceso de Lilia Santamaria 2 Puerta 3 ,Guipúzcoa,Huelva,42527,2024-09-22,Profesional,False,True
+183,Nereida Manzanares,nereida.manzanares@hotmail.com,+34 985 510 272,23,Otro,Callejón Emiliana Ferrández 71 Apt. 73 ,Badajoz,Valladolid,28162,2025-04-07,Joven,False,True
+184,Arturo Casal,arturo.casal@yahoo.com,+34 974 982 708,47,F,Camino de Almudena Verdugo 39,Badajoz,Jaén,44091,2023-10-10,Senior,False,True
+185,Eli Montserrat,eli.montserrat@hotmail.com,+34942 693 465,36,F,Vial de Emiliano Rey 984 Piso 8 ,Cantabria,Castellón,41905,2023-12-30,Familia,False,True
+186,Lidia Manso,lidia.manso@hotmail.com,+34924 22 88 51,50,Otro,Camino de Concepción Rincón 146 Puerta 1 ,Jaén,Burgos,04477,2024-06-29,Senior,False,True
+187,Herminia Barbero,herminia.barbero@gmail.com,+34884 244 204,47,Otro,Acceso Odalys Santamaria 9,Valencia,Segovia,37783,2026-02-08,Senior,False,False
+188,Roque Gámez,roque.gámez@hotmail.com,+34 888 066 658,38,M,Callejón Hermenegildo Salazar 95,Vizcaya,Toledo,13681,2023-05-14,Familia,False,True
+189,Macario Sanchez,macario.sanchez@gmail.com,+34821228160,27,F,Paseo de Juan Luis Castillo 59 Apt. 57 ,Alicante,Burgos,22143,2024-03-05,Profesional,False,True
+190,Edelmira Azcona,edelmira.azcona@hotmail.com,+34 901 79 85 15,18,Otro,Pasadizo Borja Vazquez 96,Ávila,Huelva,15496,2025-05-20,Joven,False,True
+191,Sol Garcés,sol.garcés@hotmail.com,+34922 554 398,33,M,Via Guiomar Oliva 43 Apt. 56 ,Jaén,Córdoba,36404,2023-09-06,Profesional,False,True
+192,Lourdes Luna,lourdes.luna@gmail.com,+34 984588770,52,M,Alameda Aroa Blanca 3 Puerta 8 ,Santa Cruz de Tenerife,Asturias,14813,2024-06-30,Familia,False,True
+193,Herminia Garcés,herminia.garcés@hotmail.com,+34 949 13 86 12,43,M,Alameda de Anselmo Bonilla 1,Zamora,Córdoba,37574,2024-02-06,Senior,False,True
+194,Calisto Goñi,calisto.goñi@yahoo.com,+34946 676 650,21,F,Paseo Adolfo Barroso 601 Puerta 1 ,Zamora,Soria,20749,2023-06-14,Estudiante,False,True
+195,Elvira Bolaños,elvira.bolaños@yahoo.com,+34966607283,42,M,Paseo de Manolo Cobos 15,Baleares,Alicante,01329,2023-07-11,Senior,False,True
+196,Constanza Prado,constanza.prado@hotmail.com,+34823 435 368,45,F,Rambla Ismael Iriarte 31,Valladolid,Navarra,31229,2023-12-04,Senior,False,True
+197,Filomena Beltran,filomena.beltran@yahoo.com,+34 820 41 39 75,26,F,Urbanización Cornelio López 613 Piso 7 ,Salamanca,Sevilla,21032,2023-12-09,Profesional,False,True
+198,Joaquina Corominas,joaquina.corominas@hotmail.com,+34 928562053,42,F,Callejón de Priscila Palomares 85,León,Huelva,51775,2024-09-06,Senior,False,True
+199,Marcos Torrens,marcos.torrens@hotmail.com,+34827 291 428,40,Otro,Avenida de Lucía Benet 9,Palencia,Palencia,27550,2024-11-03,Familia,False,True
+200,María José Garcia,maría josé.garcia@gmail.com,+34 883 88 72 56,22,F,Vial de Abril Vallejo 616,Sevilla,Ciudad,41241,2024-11-28,Joven,False,True

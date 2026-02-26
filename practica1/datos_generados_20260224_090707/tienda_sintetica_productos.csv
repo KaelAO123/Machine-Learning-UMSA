@@ -1,0 +1,26 @@
+id_producto,nombre,categoria,precio_unitario,stock,proveedor
+1,Smartphone,Electrónica,995.2,22,Banca Privada OLMJ S.L.N.E
+2,Laptop,Electrónica,1138.17,135,Suministros BL S.Coop.
+3,Tablet,Electrónica,412.5,387,Grupo Rivas S.A.T.
+4,Auriculares,Electrónica,243.49,389,Alimentación Cuervo y asociados S.Com.
+5,Smartwatch,Electrónica,1349.05,54,Fábrica Navarro S.A.
+6,Sofá,Hogar,492.87,26,Caballero y Palomar S.L.L.
+7,Mesa,Hogar,72.35,121,Banco Segovia & Asociados S.L.N.E
+8,Silla,Hogar,224.5,318,Bermúdez y Marcos S.L.L.
+9,Lámpara,Hogar,69.9,111,Fernandez & Asociados S.A.
+10,Estantería,Hogar,587.01,369,Instalaciones Española S.L.L.
+11,Camiseta,Ropa,172.58,122,Restauración XRI S.Com.
+12,Pantalón,Ropa,145.78,152,Comercializadora Donoso & Asociados S.A.
+13,Vestido,Ropa,246.64,13,Lerma y Gimenez S.L.
+14,Chaqueta,Ropa,232.47,91,Grupo Antón S.L.
+15,Zapatos,Ropa,215.48,184,Leal y Batalla S.A.T.
+16,Bicicleta,Deportes,188.39,120,Garcia y asociados S.Com.
+17,Pesas,Deportes,575.61,182,Eric Landa Chaparro S.A.U
+18,Esterilla,Deportes,88.26,204,Suministros Pujol y asociados S.A.T.
+19,Balón,Deportes,85.13,443,Transportes Bou S.L.
+20,Raqueta,Deportes,226.05,145,Despacho IJFU S.Coop.
+21,Novela,Libros,82.64,383,Benigna Iglesias Alberdi S.L.
+22,Ensayo,Libros,51.35,73,Inmobiliaria RPIA S.L.
+23,Manual,Libros,97.58,203,Farmaceútica Vera & Asociados S.L.N.E
+24,Cómic,Libros,17.09,160,Finanzas Coronado y asociados S.L.
+25,Revista,Libros,84.65,326,Hermanos Torres S.A.

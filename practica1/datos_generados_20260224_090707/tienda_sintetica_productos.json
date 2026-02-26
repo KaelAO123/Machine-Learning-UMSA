@@ -1,0 +1,202 @@
+[
+  {
+    "id_producto":1,
+    "nombre":"Smartphone",
+    "categoria":"Electrónica",
+    "precio_unitario":995.2,
+    "stock":22,
+    "proveedor":"Banca Privada OLMJ S.L.N.E"
+  },
+  {
+    "id_producto":2,
+    "nombre":"Laptop",
+    "categoria":"Electrónica",
+    "precio_unitario":1138.17,
+    "stock":135,
+    "proveedor":"Suministros BL S.Coop."
+  },
+  {
+    "id_producto":3,
+    "nombre":"Tablet",
+    "categoria":"Electrónica",
+    "precio_unitario":412.5,
+    "stock":387,
+    "proveedor":"Grupo Rivas S.A.T."
+  },
+  {
+    "id_producto":4,
+    "nombre":"Auriculares",
+    "categoria":"Electrónica",
+    "precio_unitario":243.49,
+    "stock":389,
+    "proveedor":"Alimentación Cuervo y asociados S.Com."
+  },
+  {
+    "id_producto":5,
+    "nombre":"Smartwatch",
+    "categoria":"Electrónica",
+    "precio_unitario":1349.05,
+    "stock":54,
+    "proveedor":"Fábrica Navarro S.A."
+  },
+  {
+    "id_producto":6,
+    "nombre":"Sofá",
+    "categoria":"Hogar",
+    "precio_unitario":492.87,
+    "stock":26,
+    "proveedor":"Caballero y Palomar S.L.L."
+  },
+  {
+    "id_producto":7,
+    "nombre":"Mesa",
+    "categoria":"Hogar",
+    "precio_unitario":72.35,
+    "stock":121,
+    "proveedor":"Banco Segovia & Asociados S.L.N.E"
+  },
+  {
+    "id_producto":8,
+    "nombre":"Silla",
+    "categoria":"Hogar",
+    "precio_unitario":224.5,
+    "stock":318,
+    "proveedor":"Bermúdez y Marcos S.L.L."
+  },
+  {
+    "id_producto":9,
+    "nombre":"Lámpara",
+    "categoria":"Hogar",
+    "precio_unitario":69.9,
+    "stock":111,
+    "proveedor":"Fernandez & Asociados S.A."
+  },
+  {
+    "id_producto":10,
+    "nombre":"Estantería",
+    "categoria":"Hogar",
+    "precio_unitario":587.01,
+    "stock":369,
+    "proveedor":"Instalaciones Española S.L.L."
+  },
+  {
+    "id_producto":11,
+    "nombre":"Camiseta",
+    "categoria":"Ropa",
+    "precio_unitario":172.58,
+    "stock":122,
+    "proveedor":"Restauración XRI S.Com."
+  },
+  {
+    "id_producto":12,
+    "nombre":"Pantalón",
+    "categoria":"Ropa",
+    "precio_unitario":145.78,
+    "stock":152,
+    "proveedor":"Comercializadora Donoso & Asociados S.A."
+  },
+  {
+    "id_producto":13,
+    "nombre":"Vestido",
+    "categoria":"Ropa",
+    "precio_unitario":246.64,
+    "stock":13,
+    "proveedor":"Lerma y Gimenez S.L."
+  },
+  {
+    "id_producto":14,
+    "nombre":"Chaqueta",
+    "categoria":"Ropa",
+    "precio_unitario":232.47,
+    "stock":91,
+    "proveedor":"Grupo Antón S.L."
+  },
+  {
+    "id_producto":15,
+    "nombre":"Zapatos",
+    "categoria":"Ropa",
+    "precio_unitario":215.48,
+    "stock":184,
+    "proveedor":"Leal y Batalla S.A.T."
+  },
+  {
+    "id_producto":16,
+    "nombre":"Bicicleta",
+    "categoria":"Deportes",
+    "precio_unitario":188.39,
+    "stock":120,
+    "proveedor":"Garcia y asociados S.Com."
+  },
+  {
+    "id_producto":17,
+    "nombre":"Pesas",
+    "categoria":"Deportes",
+    "precio_unitario":575.61,
+    "stock":182,
+    "proveedor":"Eric Landa Chaparro S.A.U"
+  },
+  {
+    "id_producto":18,
+    "nombre":"Esterilla",
+    "categoria":"Deportes",
+    "precio_unitario":88.26,
+    "stock":204,
+    "proveedor":"Suministros Pujol y asociados S.A.T."
+  },
+  {
+    "id_producto":19,
+    "nombre":"Balón",
+    "categoria":"Deportes",
+    "precio_unitario":85.13,
+    "stock":443,
+    "proveedor":"Transportes Bou S.L."
+  },
+  {
+    "id_producto":20,
+    "nombre":"Raqueta",
+    "categoria":"Deportes",
+    "precio_unitario":226.05,
+    "stock":145,
+    "proveedor":"Despacho IJFU S.Coop."
+  },
+  {
+    "id_producto":21,
+    "nombre":"Novela",
+    "categoria":"Libros",
+    "precio_unitario":82.64,
+    "stock":383,
+    "proveedor":"Benigna Iglesias Alberdi S.L."
+  },
+  {
+    "id_producto":22,
+    "nombre":"Ensayo",
+    "categoria":"Libros",
+    "precio_unitario":51.35,
+    "stock":73,
+    "proveedor":"Inmobiliaria RPIA S.L."
+  },
+  {
+    "id_producto":23,
+    "nombre":"Manual",
+    "categoria":"Libros",
+    "precio_unitario":97.58,
+    "stock":203,
+    "proveedor":"Farmaceútica Vera & Asociados S.L.N.E"
+  },
+  {
+    "id_producto":24,
+    "nombre":"Cómic",
+    "categoria":"Libros",
+    "precio_unitario":17.09,
+    "stock":160,
+    "proveedor":"Finanzas Coronado y asociados S.L."
+  },
+  {
+    "id_producto":25,
+    "nombre":"Revista",
+    "categoria":"Libros",
+    "precio_unitario":84.65,
+    "stock":326,
+    "proveedor":"Hermanos Torres S.A."
+  }
+]
