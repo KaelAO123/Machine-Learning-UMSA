@@ -157,3 +157,10 @@ El spot logra integrar:
 
 Mediante el uso de herramientas de Inteligencia Artificial se optimizó el proceso de producción audiovisual, permitiendo generar imágenes y videos de calidad profesional en menor tiempo.
 
+## Exposiciones
+
+Para las base de las exposiciones, mi tema me toco es regresion lineal
+Tenemos que pensar en un proyecto usando A/B Testing, de preferencia algo del mundo real de Bolivia
+Para el proyecto debemos de aplicar 7 de estas tecnicas
+
+* deben durar de 3 a 4 minutos
